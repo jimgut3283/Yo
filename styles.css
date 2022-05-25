@@ -1,12 +1,27 @@
 body{
+  background-color: Black;
   font-family: Arial;
-  background: Black;
+}
+h1 {
+  color: White;
+  text-align: Center;
+}
+  p {
+  font-size: 30px;
+    color: White;
+}
+h2 {
+  color: yellow;
+  text-align: Center;
+}
+h2 {
   color: white;
-  text-align: center;
+  text-align: Center;
+}
+{
   border-style:dotted;
   border-width:5px;
   border-color: green green green green;
-  font-size: 30px;
   border-top-style: solid;
   border-right-style: dotted;
   border-bottom-style: solid;
