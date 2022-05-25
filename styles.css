@@ -1,8 +1,8 @@
 body{
   background-color: Black;
-  font-family: Arial;
 }
 h1 {
+  font-family: Arial;
   color: White;
   text-align: Center;
 }
@@ -14,7 +14,7 @@ h2 {
   color: yellow;
   text-align: Center;
 }
-h2 {
+h3 {
   color: white;
   text-align: Center;
 }
